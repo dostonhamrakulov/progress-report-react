@@ -1,0 +1,25 @@
+.container {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.nav-header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    background: #405256;
+    color: white;
+}
+.nav-link {
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+}
